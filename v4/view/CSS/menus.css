@@ -1,0 +1,73 @@
+/*Menu horitzontal*/
+ul#menu
+{
+padding: 0px;
+position: relative;
+margin: 0;
+}
+
+ul#menu li
+{
+display: inline;
+padding: 2px;
+}
+
+ul#menu li a
+{
+background-color: #ffffff;
+padding: 10px 20px;
+text-decoration: none;
+line-height: 2.8em;
+color: #034af3;
+border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover
+{
+background-color: #e8eef4;
+} 
+
+ul#menu li a:active
+{
+background-color: blue;
+color: lime;
+}
+
+/*Menú Vertical*/
+
+nav {
+  width: 15%;
+  margin: 10px 0; 
+  border-radius: 4px 4px 4px 4px;
+  float: left;
+}
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+nav ul li {  
+  width: 100%;
+  margin-top: 10px;
+  
+}
+nav ul li a {
+  text-align: center;
+  padding: 8px 0;
+  display: block;
+  width: 100%;
+  background: #cdeb8e; 
+  border-radius: 4px 4px 4px 4px;
+}
+nav ul li a,
+nav ul li a:focus,
+nav ul li a:visited,
+nav ul li a:hover,
+nav ul li a:active {
+  color: #000;
+  text-decoration: none; 
+}
+nav ul li a:hover,
+nav ul li a:active {
+  background: #b0ca34; 
+}
+

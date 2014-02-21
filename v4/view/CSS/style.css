@@ -1,0 +1,160 @@
+body
+{
+font: "Trebuchet MS", Verdana, sans-serif;
+background-color: #5c87b2;
+color: #696969;
+}
+
+#main
+{
+padding: 20px;
+background-color: #ffffff;
+border-radius: 0 4px 4px 4px;
+}
+
+#gestio
+{
+margin: auto auto auto auto;
+width: 99%;
+border-radius: 0 4px 4px 4px;
+box-shadow: 3px 3px 3px #111;
+}
+
+h1
+{
+font: Georgia, serif;
+border-bottom: 3px solid #cc9900;
+color: #996600;
+}
+
+#titols_accions{
+font: "Trebuchet MS", Verdana, sans-serif;
+font-size: 24px;
+text-align: center;
+border-bottom: 3px solid
+}
+
+#titol_logo{
+font: "Trebuchet MS", Verdana, sans-serif;
+font-size: 24px;
+height:50px;
+text-align: center;
+background-color: #5c87b2;
+color: #696969;
+}
+
+#logo_small{
+float: right;
+}
+
+#alta{
+width: 65%;
+text-align:center;
+margin: 40px 60px;
+border-radius: 4px 4px 4px 4px;
+float: left;
+background: white;
+padding-bottom: 20px;
+}
+
+#copyright{
+clear: both;
+width: 100%;
+text-align: center;
+}
+table {
+margin-left:auto; 
+margin-right:auto;
+width: 500px;
+text-align: center;
+text-decoration: bold;
+}
+td{
+width:100px;
+}
+table#llistats {
+margin-left:auto; 
+margin-right:auto;
+border-collapse:collapse;
+width: 90%;
+text-align: center;
+text-decoration: bold;
+}
+table#llistats td {
+border: 1px solid black;
+}
+td#taula_titol{
+text-align:center;
+font: "Trebuchet MS", Verdana, sans-serif;
+font-size: 24px;
+}
+td#envia{
+text-align:center;
+}
+td,#taula_titol{
+text-align:left;
+}
+
+td#titol_login{
+font: "Trebuchet MS", Verdana, sans-serif;
+font-size: 24px;
+text-align:center;
+}
+
+td,#taula_login{
+text-align:center;
+}
+
+#mostra{
+clear: both;
+position: relative;
+}
+
+#show_gestio{
+margin: auto auto;
+width: 50%;
+text-align: center;
+}
+#gestio_ok{
+margin: auto auto;
+width: 50%;
+text-align: center;
+}
+
+#userlog{
+width: 150px;
+height: 60px;
+border-radius: 4px 4px 4px 4px;
+padding-top: 5px;
+float: right;
+text-align: center;
+background: white;
+}
+input[type="submit"] {
+/*background:#B9DFFF;*/
+background: blue;
+margin: 3px 3px 0 3px;
+color: #fff;
+border: 1px solid green;
+border-radius: 20px;
+box-shadow: 3px 3px 3px #111;
+}
+select {
+padding: 2px 2px 2px 2px;
+margin: 5px 5px 5px 5px;
+border: 1px solid #000;
+box-shadow: 3px 3px 3px #111;
+}
+
+input[type="text"], input[type="password"]	{
+border:1px solid #777;
+border-radius:5px;
+width:120px;
+}
+/*P { 
+border: solid thick #5c87b2;
+border-radius: 1em; 
+box-shadow: black 0.5em 0.5em 0.3em;
+}*/
+
+
