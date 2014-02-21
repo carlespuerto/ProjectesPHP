@@ -25,5 +25,6 @@ if ($grup==2){
 		include 'vols/vols.php';
 	} 
 }
+
 ?>
 
