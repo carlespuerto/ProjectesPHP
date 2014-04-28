@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS `pilots` (
 --
 
 INSERT INTO `pilots` (`nifpilot`, `nom`, `cognoms`, `telefon`, `adreca`, `numAterratges`, `numHoresVol`, `actiu`) VALUES
-('52165327q', 'Carles', 'Puerto Escayola', '655079064', 'casa del pilot 2', 346, 99, 1);
+('1111111', 'Carles', 'Puerto Escayola', '6666666666', 'casa del pilot 2', 346, 99, 1);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
